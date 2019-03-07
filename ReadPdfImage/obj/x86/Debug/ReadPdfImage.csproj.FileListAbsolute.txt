@@ -1,0 +1,16 @@
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\ReadPdfImage.exe.config
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\ReadPdfImage.exe
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\ReadPdfImage.pdb
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\itextsharp.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\bin\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\obj\x86\Debug\Interop.MODI.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.csproj.ResolveComReference.cache
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.exe
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.pdb
+C:\Users\milyas\Downloads\ocr\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.csprojResolveAssemblyReference.cache
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\bin\Debug\ReadPdfImage.exe.config
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\Interop.MODI.dll
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.csproj.ResolveComReference.cache
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.exe
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.pdb

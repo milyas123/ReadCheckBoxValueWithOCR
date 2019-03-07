@@ -1,0 +1,6 @@
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\bin\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\bin\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\bin\Debug\itextsharp.dll
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\obj\Debug\PDfReading.csprojResolveAssemblyReference.cache
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\obj\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\PdfUtils\obj\Debug\PdfUtils.pdb

@@ -1,0 +1,12 @@
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\bin\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\bin\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\bin\Debug\itextsharp.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\obj\Debug\PdfUtils.csprojResolveAssemblyReference.cache
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\obj\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\ocr\PdfUtils\PdfUtils\obj\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\obj\Debug\PdfUtils.csprojResolveAssemblyReference.cache
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\obj\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\obj\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\bin\Debug\PdfUtils.dll
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\bin\Debug\PdfUtils.pdb
+C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\PdfUtils\bin\Debug\itextsharp.dll
