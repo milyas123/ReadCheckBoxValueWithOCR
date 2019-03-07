@@ -59,12 +59,6 @@
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PdfUtils\PDfReading.csproj">
-      <Project>{8ff978fd-3aa7-4a99-952a-c080d29ae654}</Project>
-      <Name>PDfReading</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <COMReference Include="MODI">
       <Guid>{A5EDEDF4-2BBC-45F3-822B-E60C278A1A79}</Guid>
       <VersionMajor>12</VersionMajor>
@@ -74,6 +68,12 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PDfReading\PDfReading.csproj">
+      <Project>{8ff978fd-3aa7-4a99-952a-c080d29ae654}</Project>
+      <Name>PDfReading</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

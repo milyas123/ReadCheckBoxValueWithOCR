@@ -9,14 +9,14 @@ C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\Inter
 C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\OCRReadImage.csproj.ResolveComReference.cache
 C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.exe
 C:\Users\milyas\Downloads\ocr\OCR Code\PdfUtils\ReadPdfImage\obj\x86\Debug\ReadPdfImage.pdb
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\Interop.MODI.dll
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\OCRReadImage.csproj.ResolveComReference.cache
+C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\OCRReadImage.csprojResolveAssemblyReference.cache
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\ReadPdfImage.exe.config
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\ReadPdfImage.exe
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\ReadPdfImage.pdb
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\itextsharp.dll
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\PdfUtils.dll
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\bin\Debug\PdfUtils.pdb
-C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\OCRReadImage.csprojResolveAssemblyReference.cache
-C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\Interop.MODI.dll
-C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\OCRReadImage.csproj.ResolveComReference.cache
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\ReadPdfImage.exe
 C:\Users\milyas\Downloads\OCR Handwritten Choice Reading\OCR Handwritten Choice Reading\ReadPdfImage\obj\x86\Debug\ReadPdfImage.pdb

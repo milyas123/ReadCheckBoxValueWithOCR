@@ -1,4 +1,4 @@
-﻿using PdfUtils; // Used to convert the scanned PDF to JPEG Image
+﻿using PdfReading; // Used to convert the scanned PDF to JPEG Image
 using System;
 using System.IO;
 using MODI; // Used to Read the Image with OCR

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace PdfUtils
+namespace PdfReading
 {
     /// <summary>Helper class to extract images from a PDF file. Works with the most 
     /// common image types embedded in PDF files, as far as I can tell.</summary>
